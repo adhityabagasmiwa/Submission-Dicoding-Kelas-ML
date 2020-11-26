@@ -1,4 +1,4 @@
-# Submission Dicoding Kelas Machine Learning Pemula
+#  Dicoding Submission - Kelas Machine Learning Pemula
 
 Klasifikasi Paper, Rock dan Scissors menggunakan Convolutional Neural Network
 
@@ -10,7 +10,7 @@ Klasifikasi Paper, Rock dan Scissors menggunakan Convolutional Neural Network
   * ReduceLROnPlateau
 * Optimizer : Adam (learning rate : 0.001)
 
-# Requirement
+## Requirement
   * Keras
   * Tensorflow
   
